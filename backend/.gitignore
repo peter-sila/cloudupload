@@ -23,6 +23,7 @@ wheels/
 *.egg
 .env
 .env.local
+.env.example
 .DS_Store
 .vscode/
 .idea/
